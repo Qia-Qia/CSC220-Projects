@@ -5,6 +5,6 @@ This is a collection of the coding challenges we've done in CSC220: Advanced Pro
 Python, Java, Julia, JavaScript/HTML/CSS
 
 ## Contributors
-@ningkko, @Fanghui He, @Qiaqia, @Yanwan Zhu
+Yining Hua, Fanghui He, Qiaqia Ji, Yanwan Zhu
 
 
